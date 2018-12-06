@@ -4,6 +4,7 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 import { ContentComponent } from './content/content.component';
+import { MenuComponent } from './menu/menu.component';
 
 
 
@@ -11,6 +12,7 @@ import { ContentComponent } from './content/content.component';
   declarations: [
     AppComponent,
     ContentComponent,
+    MenuComponent,
 
   ],
   imports: [
